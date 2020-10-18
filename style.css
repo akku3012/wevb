@@ -1,0 +1,44 @@
+h1{
+    color: rgb(209, 208, 214);
+}
+* {
+    border:outsetA;
+}
+* {
+    background-image: url('astronomy.jpg') ;
+     
+}
+h1{
+    font-style: oblique;
+    
+    text-align: center;
+    color:rgb(209, 208, 219);
+}
+h2{
+    font-style: oblique;
+    text-align: center;
+    color: rgb(209, 208, 219);
+}
+p{
+    text-align: justify;
+     font-style: oblique;
+     color: rgb(230, 229, 233);
+}
+h3{
+
+    color: oldlace;
+}
+ul{
+    text-align: justify;
+    font-style: italic;
+    color: rgb(222, 217, 243);
+}
+img {
+   align-self: start;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
